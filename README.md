@@ -9,5 +9,5 @@ In order for this wrapper to work, you will need to download and install the fol
 1.  Build a Windows Instance
 2.  Get the powershell module from Git repository (https://github.com/pjh/gce-tools/tree/master/GceTools)
 3.  Follow the directions to build or import the module
-4.  Download the powershell wrapper here and extract in the same directory as the powershell module in step #2
+4.  Download the powershell wrapper here (https://github.com/jonnyshannon/GCP-GuestDiskMapping/blob/master/GuestDiskMappingWrapper.ps1) and extract in the same directory as the powershell module in step #2
 5.  In powershell, run the script .\GuestDiskMappingWrapper.ps1
